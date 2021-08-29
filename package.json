@@ -1,0 +1,16 @@
+{
+  "name": "aws-lambda-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "aws-sdk": "^2.978.0",
+    "s3-upload-stream": "^1.0.7"
+  }
+}
